@@ -1,0 +1,11 @@
+Me chamo Leonardo Lutaif, tenho 21 anos e nasci no dia 25 de abril de 2003. Em 2020, concluí o ensino médio com um técnico em Administração de Empresas, um período no qual adquiri uma sólida base administrativa que complementou minha formação técnica. Desde 2021, estou cursando Sistemas de Informação na Universidade Presbiteriana Mackenzie, onde venho aprimorando minhas habilidades técnicas e teóricas na área de tecnologia.
+
+Minha trajetória profissional começou em 2021, quando atuei como assistente de TI na revista online Balde Branco. Neste papel, fui responsável por suporte técnico, manutenção de sistemas e garantia da funcionalidade das plataformas digitais da revista. Essa experiência me proporcionou uma visão valiosa sobre a interação entre tecnologia e comunicação digital.
+
+Posteriormente, trabalhei como desenvolvedor e designer na agência OndaY. Nessa posição, desenvolvi e implementei soluções tecnológicas, além de criar designs intuitivos para diversos projetos. Esse trabalho me permitiu aprimorar minhas habilidades em desenvolvimento front-end e back-end, bem como em design de interfaces, ampliando meu conhecimento em linguagens como JavaScript (Node.js, React) e Python.
+
+Além disso, fui estagiário na OnTimeNet, onde contribuí para projetos desafiadores que envolveram desenvolvimento de software e suporte técnico. Essa experiência foi crucial para o meu crescimento profissional, permitindo-me lidar com problemas técnicos complexos e colaborar com uma equipe diversificada.
+
+Atualmente, sou sócio em uma empresa chamada e-Restituição, especializada na recuperação de imposto de renda. Nesta função, utilizo minha expertise em tecnologia e administração para otimizar processos e oferecer soluções eficazes para nossos clientes. Esse papel exige um entendimento profundo tanto das questões fiscais quanto das ferramentas tecnológicas envolvidas.
+
+Sou um profissional dedicado e comunicativo, com habilidades que vão além do desenvolvimento de software. Tenho facilidade em lidar com conflitos e sempre busco novas soluções para problemas que surgem. Além das minhas competências técnicas, meu nível de inglês é avançado, e estou em constante aprendizado para atingir a fluência completa.
