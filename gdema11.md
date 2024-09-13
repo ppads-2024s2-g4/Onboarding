@@ -1,17 +1,5 @@
-Sistema de Gerenciamento de Projetos
-Universidade Presbiteriana Mackenzie
-Março de 2024 – Julho de 2024
+Meu nome é Gabriel, tenho 21 anos e sou estudante do 6º semestre de Sistemas de Informação na Universidade Presbiteriana Mackenzie. Ao longo do meu curso, desenvolvi habilidades sólidas em diversas linguagens de programação, incluindo HTML, CSS, Java, JavaScript e Python. Além disso, possuo conhecimentos avançados em Excel, o que me permite realizar análises de dados de forma eficiente.
 
-Desenvolvi um sistema de gerenciamento de projetos usando Python e HTML para front-end.
-Implementei funcionalidades de criação, edição e acompanhamento de tarefas.
-O projeto foi avaliado positivamente em seminário acadêmico.
-Aplicativo de Consulta de Dados
-Universidade Presbiteriana Mackenzie
+Minha paixão pela tecnologia e pela resolução de problemas me motiva a buscar constantemente novas oportunidades de aprendizado e crescimento. Estou sempre em busca de desafios que me permitam aplicar meus conhecimentos e contribuir para projetos inovadores.
 
-Criei um aplicativo para consulta de dados utilizando Java e SQL para a integração com banco de dados.
-Realizei a implementação de interfaces amigáveis e integração com APIs externas.
-Habilidades Técnicas:
-
-Linguagens de Programação: Python, Java, HTML
-Banco de Dados: SQL
-Ferramentas: Visual Studio Code, Git
+Estou animado para continuar minha jornada no campo da tecnologia da informação e estou aberto a oportunidades que me permitam expandir minhas habilidades e colaborar com profissionais talentosos.
